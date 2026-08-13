@@ -212,13 +212,10 @@ Focus: React · FastAPI · PostgreSQL · REST API
 <img src="https://streak-stats.demolab.com?user=E-HamadAlgmal&theme=dark&hide_border=true&background=0D1117&stroke=302B63&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="700"/>
 </a></div>---
 
-<h3>🐍 GitHub Contribution Snake</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/E-HamadAlgmal/E-HamadAlgmal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://snk-generator.vercel.app/api/snake?username=E-HamadAlgmal&theme=dark" alt="Snake" width="100%" />
 </p>
 
----
 
 
 📈 Current Goals
