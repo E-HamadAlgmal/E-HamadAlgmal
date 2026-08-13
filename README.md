@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**E-HamadAlgmal/E-HamadAlgmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- البانر العلوي المتحرك: تأثير الكتابة الاحترافي -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&lines=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%AC%D9%85%D9%8E%D9%91%D8%A7%D9%84;Full-Stack+%26+Mobile+App+Developer;Cybersecurity+%26+Systems+Architect;Building+Scalable+%26+Secure+Solutions" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>💻 خريج تقنية معلومات وأمن سيبراني | مطور تطبيقات ومواقع متكاملة | رائد أعمال تقني 🚀</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- الشارات العلوية -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/E-HamadAlgmal?label=Followers&style=for-the-badge&color=00D2FF&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Software-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-orange?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## ⚡ نبذة عني (About Me)
+
+* 🎓 **المؤهل:** حاصل على بكالوريوس في الأمن السيبراني وتقنية المعلومات.
+* 📱 **الموبايل:** متخصص في تطوير تطبيقات هاتف عابرة للمنصات باستخدام **Flutter**.
+* 🌐 **الويب:** بناء واجهات مستخدم سريعة وديناميكية باستخدام **Nuxt** و **Vite** وأنظمة خلفية قوية بـ **Python** و **Node.js**.
+* 🛡️ **الأمان:** حماية البنية التحتية وقواعد البيانات مع تطبيق أفضل معايير الأمان البرمجي.
+
+---
+
+## 🛠️ الحقيبة التقنية (Tech Stack)
+
+<div align="center">
+
+### 📱 الموبايل والواجهات
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ الأنظمة الخلفية وقواعد البيانات
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛡️ الأمن السحابي والبنية التحتية
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-RedHat-red?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 إحصائيات GitHub الحية
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=E-HamadAlgmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-HamadAlgmal&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-HamadAlgmal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📬 تواصل معي (Connect with Me)
+
+<div align="center">
+
+<!-- لينكد إن -->
+<a href="https://www.linkedin.com/in/حمد-الجمال-48a173303" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamad%20Al--Jamal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- الواتساب -->
+<a href="https://wa.me/967770789581" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B967770789581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<!-- البريد الإلكتروني -->
+<a href="mailto:Hamadalgmal546@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Hamadalgmal546%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<!-- جيت هب -->
+<a href="https://github.com/E-HamadAlgmal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-E--HamadAlgmal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <sub>✨ Designed with passion for building high-performance & secure applications ✨</sub>
+</p>
