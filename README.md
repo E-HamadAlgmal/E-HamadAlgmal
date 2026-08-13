@@ -1,111 +1,179 @@
-<div align="center">
+👋 Hi, I'm Hamad Al-Jamal
 
-  <!-- Header Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=%E2%9A%A1+HAMAD+AL-JAMAL+%7C+FULL-STACK+%26+SECURITY;%F0%9F%90%B1%E2%80%8D%F0%9F%90%8D+Building+High-Performance+Architectures;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%20%7C+Flutter+%7C+NestJS+%7C+.NET;%F0%9F%9A%80+Engineering+Scalable+Digital+Products" alt="Typing SVG" />
-  </a>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=HAMAD%20AL-JAMAL&fontSize=48&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Tech%20Entrepreneur&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/><a href="https://github.com/E-HamadAlgmal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer;Flutter+%7C+Vue.js+%7C+Nuxt.js;NestJS+%7C+Node.js+%7C+.NET;PostgreSQL+%7C+MySQL+%7C+SQL+Server;Building+Modern+%26+Scalable+Applications;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
+</a><br/><a href="https://github.com/E-HamadAlgmal">
+  <img src="https://img.shields.io/badge/GitHub-E--HamadAlgmal-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff"/>
+</a>
+<a href="https://www.linkedin.com/in/%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84-48a173303">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamad%20Al--Jamal-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
+</a>
+<a href="mailto:Hamadalgmal546@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00ff"/>
+</a>
+<a href="https://wa.me/967770789581">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff88"/>
+</a><br/><br/>
 
-  <br />
+<img src="https://komarev.com/ghpvc/?username=E-HamadAlgmal&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" alt="Profile Views"/></div>---
 
-  <p align="center">
-    <a href="https://github.com/E-HamadAlgmal">
-      <img src="https://img.shields.io/github/followers/E-HamadAlgmal?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D1117" />
-    </a>
-    <a href="https://www.linkedin.com/in/حمد-الجمال-48a173303">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117" />
-    </a>
-    <a href="https://wa.me/967770789581">
-      <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&labelColor=0D1117" />
-    </a>
-  </p>
+🧑‍💻 About Me
 
-</div>
+const hamad = {
+  name: "Hamad Al-Jamal",
+  username: "E-HamadAlgmal",
 
-<hr />
+  education: "Bachelor's Degree in Cybersecurity & Information Technology",
 
-<!-- About Section with HTML Styling -->
-<table border="0" width="100%">
-  <tr>
-    <td width="100%">
-      <h3>👨‍💻 أهلاً بك في المساحة البرمجية الخاصة بي | Welcome to My Space</h3>
-      <p>
-        أنا <b>حمد الجمّال</b>، مهندس برمجيات متخصص في بناء الحلول الرقمية الشاملة (Full-Stack)، وتطوير تطبيقات الموبايل عالية الأداء باستخدام <b>Flutter</b>، بالإضافة إلى هندسة الأنظمة الخلفية وإدارة أمن البيانات والشبكات.
-      </p>
-      <ul>
-        <li>🎓 <b>التخصص الأساسي:</b> بكالوريوس الأمن السيبراني وتقنية المعلومات.</li>
-        <li>💡 <b>فلسفة العمل:</b> كتابة كود نظيف (Clean Code)، تصميم أنظمة آمنة ومقاومة للثغرات، وتحقيق أفضل UX/UI.</li>
-        <li>⚡ <b>مجالات التركيز:</b> Cross-Platform Apps, SaaS Platforms, Security Infrastructure & APIs.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  roles: [
+    "Full-Stack Developer",
+    "Mobile Developer",
+    "IT Engineer",
+    "Tech Entrepreneur"
+  ],
 
-<hr />
+  mainFocus: [
+    "Modern Web Applications",
+    "Cross-Platform Mobile Apps",
+    "Backend & REST APIs",
+    "Database Architecture",
+    "Scalable Software Systems"
+  ],
 
-<!-- Tech Stack Grid -->
-<h2 align="center">🛠️ الحقيبة التقنية والهندسية (Tech Stack)</h2>
+  cybersecurity: "Foundational knowledge & growing interest",
 
-<p align="center">
-  <!-- Mobile & Frontend -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nuxtjs,vue,vite,tailwind,html,css&perline=8" /><br />
-  <br />
-  <!-- Backend & Languages -->
-  <img src="https://skillicons.dev/icons?i=nestjs,cs,dotnet,nodejs,ts,js,python,express&perline=8" /><br />
-  <br />
-  <!-- Databases, Cloud & Security -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,vercel,docker,git,github,linux&perline=8" />
-</p>
+  mindset: "Build. Learn. Improve. Repeat."
+};
 
-<hr />
+«🚀 I build modern web and mobile applications with a strong focus on clean architecture, scalability, performance, and great developer experience.»
 
-<!-- GitHub Contribution Snake (أنيميشن الثعبان) -->
-<h2 align="center">🐍 مساهمات الكود الحية (Contribution Activity)</h2>
+«⚡ My main focus is software development, while cybersecurity is part of my academic background and technical interests.»
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/E-HamadAlgmal/E-HamadAlgmal/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
+---
 
-<br />
+⚡ Tech Stack
 
-<!-- Advanced Live Stats Cards -->
-<h2 align="center">📊 الإحصائيات والأداء البرمجي (GitHub Analytics)</h2>
+📱 Mobile Development
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=E-HamadAlgmal&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-HamadAlgmal&layout=compact&theme=cyberpunk&hide_border=true&hide=html,css" />
-      </td>
-    </tr>
-  </table>
+<p align="center"><a href="https://flutter.dev/">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</a></p>---
 
-  <br />
+🎨 Frontend Development
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-HamadAlgmal&theme=cyberpunk&hide_border=true" />
-</div>
+<p align="center"><a href="https://nuxt.com/">
+<img src="https://skillicons.dev/icons?i=nuxt,vue,vite,tailwind,html,css" />
+</a></p>---
 
-<hr />
+⚙️ Backend & APIs
 
-<!-- Connect & Footer -->
-<h2 align="center">📬 أبعاد التواصل المباشر (Connect with Me)</h2>
+<p align="center"><a href="https://nestjs.com/">
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,typescript,cs,dotnet,python" />
+</a></p><p align="center"><img src="https://img.shields.io/badge/Nitro-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f5ff"/></p>---
 
-<div align="center">
+🗄️ Databases
 
-  <a href="https://www.linkedin.com/in/حمد-الجمال-48a173303">
-    <img src="https://img.shields.io/badge/LinkedIn-حمد_الجمّال-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/967770789581">
-    <img src="https://img.shields.io/badge/WhatsApp-+967770789581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:Hamadalgmal546@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hamadalgmal546@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center"><a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</a><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></p>---
 
-  <br /><br />
+🛡️ Security, DevOps & Infrastructure
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" />
+<p align="center"><a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" />
+</a></p><p align="center"><img src="https://img.shields.io/badge/Cybersecurity-Foundational-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/IT%20Infrastructure-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88"/></p>---
 
-</div>
+🧩 My Development Ecosystem
+
+<div align="center">Area| Technologies
+📱 Mobile| Flutter · Dart
+🎨 Frontend| Nuxt · Vue · Vite · TailwindCSS
+⚙️ Backend| NestJS · Node.js · TypeScript · .NET · C# · Python · Nitro
+🗄️ Database| PostgreSQL · MySQL · SQL Server · SQLite
+☁️ Infrastructure| Docker · Vercel · Linux
+🔧 Tools| Git · GitHub · REST APIs
+🛡️ Security| Cybersecurity Fundamentals
+
+</div>---
+
+📊 GitHub Analytics
+
+<div align="center"><a href="https://github.com/E-HamadAlgmal">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=E-HamadAlgmal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&ring_color=00f5ff" />
+</a><a href="https://github.com/E-HamadAlgmal">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-HamadAlgmal&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" />
+</a></div><br/><div align="center"><a href="https://github.com/E-HamadAlgmal">
+<img src="https://streak-stats.demolab.com?user=E-HamadAlgmal&theme=dark&hide_border=true&background=0D1117&stroke=302B63&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="700"/>
+</a></div>---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/E-HamadAlgmal/E-HamadAlgmal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/></div>---
+
+🚀 What I'm Building
+
+<div align="center">┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   💡 Ideas                                             │
+│      ↓                                                  │
+│   🧠 Architecture                                      │
+│      ↓                                                  │
+│   ⚙️ Development                                       │
+│      ↓                                                  │
+│   🧪 Testing                                           │
+│      ↓                                                  │
+│   🚀 Deployment                                        │
+│      ↓                                                  │
+│   📈 Continuous Improvement                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+</div>🔭 Current Interests
+
+- 🏗️ Designing scalable Full-Stack applications
+- 📱 Building cross-platform applications with Flutter
+- ⚡ Developing modern applications with Nuxt, Vue and Vite
+- 🧩 Building robust REST APIs with NestJS, Node.js and .NET
+- 🗄️ Designing efficient relational databases
+- 🐳 Containerization and modern development environments
+- 🧠 Software architecture and clean code
+- 🔐 Improving cybersecurity fundamentals
+- 🚀 Turning technical ideas into real products
+
+---
+
+🧠 Engineering Philosophy
+
+Clean Code
+    +
+Good Architecture
+    +
+Strong Database Design
+    +
+Secure Development
+    +
+Continuous Learning
+    =
+Reliable Software
+
+«"Don't just make it work. Make it understandable, maintainable, scalable, and secure."»
+
+---
+
+🌐 Connect With Me
+
+<div align="center"><a href="https://www.linkedin.com/in/%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84-48a173303">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://wa.me/967770789581">
+<img src="https://img.shields.io/badge/WhatsApp-%2B967%20770%20789%20581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><a href="mailto:Hamadalgmal546@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Hamadalgmal546%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/E-HamadAlgmal">
+<img src="https://img.shields.io/badge/GitHub-E--HamadAlgmal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
+
+<div align="center">💻 Code. Build. Secure. Scale. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/></div>
