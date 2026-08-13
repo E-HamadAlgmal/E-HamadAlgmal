@@ -214,7 +214,8 @@ Focus: React · FastAPI · PostgreSQL · REST API
 
 🐍 GitHub Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/E-HamadAlgmal/E-HamadAlgmal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/E-HamadAlgmal/E-HamadAlgmal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>---
 
 📈 Current Goals
 
